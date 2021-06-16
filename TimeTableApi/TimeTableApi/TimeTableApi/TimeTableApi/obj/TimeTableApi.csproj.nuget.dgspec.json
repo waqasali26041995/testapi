@@ -1,0 +1,374 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi\\TimeTableApi.csproj": {}
+  },
+  "projects": {
+    "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application.Shared\\TimeTableApi.Application.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application.Shared\\TimeTableApi.Application.Shared.csproj",
+        "projectName": "TimeTableApi.Application.Shared",
+        "projectPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application.Shared\\TimeTableApi.Application.Shared.csproj",
+        "packagesPath": "C:\\Users\\waqas.ali2\\.nuget\\packages\\",
+        "outputPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\waqas.ali2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application\\TimeTableApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application\\TimeTableApi.Application.csproj",
+        "projectName": "TimeTableApi.Application",
+        "projectPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application\\TimeTableApi.Application.csproj",
+        "packagesPath": "C:\\Users\\waqas.ali2\\.nuget\\packages\\",
+        "outputPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\waqas.ali2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application.Shared\\TimeTableApi.Application.Shared.csproj": {
+                "projectPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application.Shared\\TimeTableApi.Application.Shared.csproj"
+              },
+              "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Core\\TimeTableApi.Core.csproj": {
+                "projectPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Core\\TimeTableApi.Core.csproj"
+              },
+              "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.DB\\TimeTableApi.DB.csproj": {
+                "projectPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.DB\\TimeTableApi.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Abp": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.3, )"
+            },
+            "PBKDF2.NET": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Core\\TimeTableApi.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Core\\TimeTableApi.Core.csproj",
+        "projectName": "TimeTableApi.Core",
+        "projectPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Core\\TimeTableApi.Core.csproj",
+        "packagesPath": "C:\\Users\\waqas.ali2\\.nuget\\packages\\",
+        "outputPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\waqas.ali2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.12.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.DB\\TimeTableApi.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.DB\\TimeTableApi.DB.csproj",
+        "projectName": "TimeTableApi.DB",
+        "projectPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.DB\\TimeTableApi.DB.csproj",
+        "packagesPath": "C:\\Users\\waqas.ali2\\.nuget\\packages\\",
+        "outputPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\waqas.ali2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi\\TimeTableApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi\\TimeTableApi.csproj",
+        "projectName": "TimeTableApi",
+        "projectPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi\\TimeTableApi.csproj",
+        "packagesPath": "C:\\Users\\waqas.ali2\\.nuget\\packages\\",
+        "outputPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\waqas.ali2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application.Shared\\TimeTableApi.Application.Shared.csproj": {
+                "projectPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application.Shared\\TimeTableApi.Application.Shared.csproj"
+              },
+              "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application\\TimeTableApi.Application.csproj": {
+                "projectPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Application\\TimeTableApi.Application.csproj"
+              },
+              "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Core\\TimeTableApi.Core.csproj": {
+                "projectPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Core\\TimeTableApi.Core.csproj"
+              },
+              "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.DB\\TimeTableApi.DB.csproj": {
+                "projectPath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.DB\\TimeTableApi.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\bin\Debug\netcoreapp3.1\TimeTableApi.Application.deps.json
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\bin\Debug\netcoreapp3.1\TimeTableApi.Application.dll
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\bin\Debug\netcoreapp3.1\TimeTableApi.Application.pdb
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\bin\Debug\netcoreapp3.1\TimeTableApi.Application.Shared.dll
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\bin\Debug\netcoreapp3.1\TimeTableApi.Core.dll
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\bin\Debug\netcoreapp3.1\TimeTableApi.DB.dll
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\bin\Debug\netcoreapp3.1\TimeTableApi.Application.Shared.pdb
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\bin\Debug\netcoreapp3.1\TimeTableApi.Core.pdb
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\bin\Debug\netcoreapp3.1\TimeTableApi.DB.pdb
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\obj\Debug\netcoreapp3.1\TimeTableApi.Application.csproj.AssemblyReference.cache
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\obj\Debug\netcoreapp3.1\TimeTableApi.Application.AssemblyInfoInputs.cache
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\obj\Debug\netcoreapp3.1\TimeTableApi.Application.AssemblyInfo.cs
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\obj\Debug\netcoreapp3.1\TimeTableApi.Application.csproj.CoreCompileInputs.cache
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\obj\Debug\netcoreapp3.1\TimeTableApi.Application.csproj.CopyComplete
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\obj\Debug\netcoreapp3.1\TimeTableApi.Application.dll
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.Application\obj\Debug\netcoreapp3.1\TimeTableApi.Application.pdb

@@ -1,0 +1,9 @@
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.DB\bin\Debug\netcoreapp3.1\TimeTableApi.DB.deps.json
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.DB\bin\Debug\netcoreapp3.1\TimeTableApi.DB.dll
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.DB\bin\Debug\netcoreapp3.1\TimeTableApi.DB.pdb
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.DB\obj\Debug\netcoreapp3.1\TimeTableApi.DB.csproj.AssemblyReference.cache
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.DB\obj\Debug\netcoreapp3.1\TimeTableApi.DB.AssemblyInfoInputs.cache
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.DB\obj\Debug\netcoreapp3.1\TimeTableApi.DB.AssemblyInfo.cs
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.DB\obj\Debug\netcoreapp3.1\TimeTableApi.DB.csproj.CoreCompileInputs.cache
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.DB\obj\Debug\netcoreapp3.1\TimeTableApi.DB.dll
+D:\TimeTableApp\TimeTableApi\TimeTableApi\TimeTableApi.DB\obj\Debug\netcoreapp3.1\TimeTableApi.DB.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dqPjP5ARpdtf7x2c6rtsQaLvbb48a7gc+4eVdM+jzRJo6irU4XqFrl5ZinyulOvgw2DuAQ894AAUyYfzDtNcpw==",
+  "success": true,
+  "projectFilePath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.DB\\TimeTableApi.DB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\waqas.ali2\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\waqas.ali2\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\waqas.ali2\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

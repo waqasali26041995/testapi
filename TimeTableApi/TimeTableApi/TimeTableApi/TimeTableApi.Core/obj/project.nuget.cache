@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sg/b+po8gemxUJIQz0XOFtKC9uksV+iI0qNHhrdL5s8UAiNH19p0MP72+b73IuH3EN/9UVvgewa6gJrpZu1myQ==",
+  "success": true,
+  "projectFilePath": "D:\\TimeTableApp\\TimeTableApi\\TimeTableApi\\TimeTableApi.Core\\TimeTableApi.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\waqas.ali2\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\waqas.ali2\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\waqas.ali2\\.nuget\\packages\\mongodb.bson\\2.12.3\\mongodb.bson.2.12.3.nupkg.sha512",
+    "C:\\Users\\waqas.ali2\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\waqas.ali2\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
